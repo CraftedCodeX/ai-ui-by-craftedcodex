@@ -6,7 +6,7 @@
 
 A GitHub-hosted project showcasing an interactive chatbot UI built with modern web technologies.  It provides a seamless and responsive interface for users to engage with AI-driven conversations, making it ideal for testing chatbot models, integrating APIs, or enhancing user interactions. The code is designed for easy customization, featuring a clean layout, message handling, and optional AI integrations.  Created with passion by CraftedCodeX.
 
-[**Live Demo**](https://demo1-ccx.vercel.app/) 
+[**Live Demo**](https://demo1-ccx.pages.dev/) 
 
 ## Table of Contents
 
