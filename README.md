@@ -137,7 +137,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Author
 **Dhrrishit Deka**
-- **Website**: https://craftedcodex.vercel.app/
+- **Website**: https://craftedcodex.pages.dev/
 - **Email**: dhrrishit@gmail.com
 - **GitHub**: https://github.com/dhrrishit
 - **LinkedIn**: https://www.linkedin.com/in/dhrrishitdeka/
